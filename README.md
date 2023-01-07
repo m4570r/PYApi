@@ -211,3 +211,7 @@ curl -X PUT -H "Content-Type: application/json" -d '{"id": 1, "nombre": "Juan", 
 ```
 curl -X DELETE -H "Content-Type: application/json" -d '{"id": 1}' http://localhost:8000
 ```
+
+
+
+Eso por el momento, estare actualizando el codigo saludos ante cualquier duda o consulta miguel.php@gmail.com
