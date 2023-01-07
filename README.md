@@ -26,7 +26,10 @@ Python 3.x
 El módulo mysql.connector para Python
 ## Instalación
 Instala Python 3.x en tu sistema.
-Instala el módulo mysql.connector ejecutando pip install mysql-connector-python.
+Instala el módulo mysql.connector ejecutando
+```
+pip install mysql-connector-python.
+```
 ## Configuración
 Crea una base de datos MySQL y una tabla de usuarios con las siguientes columnas:
 ```
