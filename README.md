@@ -75,7 +75,8 @@ GET http://localhost:8000?id=1
 ### Leer usuarios por nombre (GET)
 ```
 GET http://localhost:8000?nombre=Juan
-Actualizar usuario (PUT)
+```
+### Actualizar usuario (PUT)
 ```
 PUT http://localhost:8000
 Content-Type: application/json
